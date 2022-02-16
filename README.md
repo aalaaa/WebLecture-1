@@ -1,13 +1,3 @@
 # WebLecture-1
-Welcome everyone to lecture No. 1. Feel Free to ask any questions :D
 
-14/Feb/2022
-
-
-
-
-hello everyone 
-im mariam ❤
-
-
-#get ready for your first classwork ☠
+Hi, I applied for this course becuse I am personally intresed in Web design and wanted to learn some basics from starting
